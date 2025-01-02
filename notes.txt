@@ -1,0 +1,9 @@
+username: sushmashaw801
+password: sypd5GHb8uElNPJj
+to connect with mongodb atlas
+
+usernam:socialmediauser
+Password:SocialMediaUser
+
+string for the application:
+mongodb+srv://socialmediauser:<db_password>@cluster0.w18q5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
